@@ -123,6 +123,7 @@ export default {
 
   imageCategories: {
     all: require('@images/category/cate14.jpg'),
+    drink: require('@images/category/cate1.jpg'),
   },
 
   // Custom page from left menu side
